@@ -9,7 +9,7 @@ A practice-management platform for Nutritional Therapy Practitioners, currently 
 *Built with Next.js, TypeScript, Supabase, Clerk, Vercel, and the Anthropic Claude API.*
 
 **Eunoia Presence**: [eunoiapresence.app](https://eunoiapresence.app)
-An AI wellness companion app for judgment-free emotional reflection by text and voice.
+AI wellness companion app for judgment-free emotional reflection by text and voice.
 *Built with React, Python FastAPI, Supabase, Stripe, ElevenLabs, and the Anthropic Claude API.*
 
 ## About my code
